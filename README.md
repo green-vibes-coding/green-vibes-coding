@@ -17,4 +17,4 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=green-vibes-coding&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=green-vibes-coding&theme=grey&background=000000)](https://git.io/streak-stats)
