@@ -27,6 +27,20 @@
   <br>
   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+</div>
 
 
 </details>
