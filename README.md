@@ -23,15 +23,13 @@ https://devpress.csdn.net/opensource/62f0e2217e66823466183aa5.html
 <details> 
 	<summary> </summary>
 	<p align="center">
-	  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=green-vibes-coding&show_icons=true&count_private=true&theme=shadow_green&hide_border=true&hide=issues,contribs&bg_color=00000000">
-	  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=green-vibes-coding&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-	  <img src ="https://github-readme-streak-stats.herokuapp.com?user=green-vibes-coding&theme=dracula&hide_border=true&background=FFFFFF00">
+	  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=green-vibes-coding&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+	  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=green-vibes-coding&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+	  <img src ="https://github-readme-streak-stats.herokuapp.com?user=green-vibes-coding&theme=chartreuse-dark&hide_border=true&background=FFFFFF00">
 	  <br>
 	  <br>
 	  <a href="https://www.buymeacoffee.com/#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" /></a>
 	</p>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=green-vibes-coding)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
