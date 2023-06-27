@@ -28,8 +28,6 @@
 	  <br>
 	  <a href="https://www.buymeacoffee.com/#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" /></a>
 		https://devpress.csdn.net/opensource/62f0e2217e66823466183aa5.html
-		![green-vibes-coding](https://github.com/green-vibes-coding/green-vibes-coding/assets/100146028/bc7207bf-d51a-4b20-b9b4-4752399c18b3)
-
 	</p>
 
 
