@@ -28,34 +28,33 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="PHP" height="25" src="images/tailwind.svg"></code>
-  <code><img title="PHP" height="25" src="images/react.svg"></code>
-  <code><img title="PHP" height="25" src="images/visual-studio-code.svg"></code>
-  <code><img title="PHP" height="25" src="images/unity.svg"></code>
-  <code><img title="PHP" height="25" src="images/python.svg"></code>
-  <code><img title="PHP" height="25" src="images/power-bi.svg"></code>
-  <code><img title="PHP" height="25" src="images/postman.svg"></code>
-  <code><img title="PHP" height="25" src="images/laravel.svg"></code>
-  <code><img title="PHP" height="25" src="images/laragon.svg"></code>
-  <code><img title="PHP" height="25" src="images/nodejs.svg"></code>
-  <code><img title="PHP" height="25" src="images/linkedin.svg"></code>
-  <code><img title="PHP" height="25" src="images/git.svg"></code>
-  <code><img title="PHP" height="25" src="images/firebase.svg"></code>
-  <code><img title="PHP" height="25" src="images/docker.svg"></code>
+  <code><img title="Tailwind" height="25" src="images/tailwind.svg"></code>
+  <code><img title="React" height="25" src="images/react.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/visual-studio-code.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity.svg"></code>
+  <code><img title="Python" height="25" src="images/python.svg"></code>
+  <code><img title="Power BI" height="25" src="images/power-bi.svg"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
+  <code><img title="Laragon" height="25" src="images/laragon.svg"></code>
+  <code><img title="Node JS" height="25" src="images/nodejs.svg"></code>
+  <code><img title="Git" height="25" src="images/git.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="PHP" height="25" src="images/kotlin.svg"></code>
-  <code><img title="PHP" height="25" src="images/java.svg"></code>
-  <code><img title="PHP" height="25" src="images/html5.svg"></code>
-  <code><img title="PHP" height="25" src="images/css3.svg"></code>
-  <code><img title="PHP" height="25" src="images/javascript.svg"></code>
-  <code><img title="PHP" height="25" src="images/c.svg"></code>
-  <code><img title="PHP" height="25" src="images/cplus.svg"></code>
-  <code><img title="PHP" height="25" src="images/csharp.svg"></code>
-  <code><img title="PHP" height="25" src="images/android-studio.svg"></code>
-  <code><img title="PHP" height="25" src="images/trello.svg"></code>
-  <code><img title="PHP" height="25" src="images/canva.svg"></code>
-  <code><img title="PHP" height="25" src="images/blender.svg"></code>
-  <code><img title="PHP" height="25" src="images/mongodb.svg"></code>
+  <code><img title="Kotlin" height="25" src="images/kotlin.svg"></code>
+  <code><img title="Java" height="25" src="images/java.svg"></code>
+  <code><img title="HTML" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css3.svg"></code>
+  <code><img title="javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cplus.svg"></code>
+  <code><img title="C#" height="25" src="images/csharp.svg"></code>
+  <code><img title="Android Studio" height="25" src="images/android-studio.svg"></code>
+  <code><img title="Trello" height="25" src="images/trello.svg"></code>
+  <code><img title="Canva" height="25" src="images/canva.svg"></code>
+  <code><img title="Blender" height="25" src="images/blender.svg"></code>
+  <code><img title="Mongo DB" height="25" src="images/mongodb.svg"></code>
 </p>
 <hr>
 
