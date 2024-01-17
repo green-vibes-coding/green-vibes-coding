@@ -17,11 +17,9 @@
   <br>
   🔬 I'm currently studying for my Computer Enginyeer at the Open University of Catalonia
   <br>
-  🎓 I graduated from CFSG DAM
+  🎓 I have a degree in Multiplatform Application Development
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📫 How to reach me: <a href="mailto: uninterestedness@gmail.com">uninterestedness@gmail.com</a>
 </p>
 
 <hr>
