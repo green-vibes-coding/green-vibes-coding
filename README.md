@@ -8,6 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
+  <code><a href="mailto: uninterestedness@gmail.com" title="Gmail"><img width="22" src="images/gmail.svg"></a></code>
 </h5>
 <br>
 <p align="center">
@@ -27,9 +28,34 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,azure,bash,blender,bootstrap,c,cs,cpp,codepen,css,html,idea,dotnet,eclipse,figma,firebase,git,gitlab,java,docker,js,kotlin,laravel,nodejs,mongodb,php,postman,powershell,py,tailwind,vscode,visualstudio,vue" />
-  </a>
+  <code><img title="PHP" height="25" src="images/tailwind.svg"></code>
+  <code><img title="PHP" height="25" src="images/react.svg"></code>
+  <code><img title="PHP" height="25" src="images/visual-studio-code.svg"></code>
+  <code><img title="PHP" height="25" src="images/unity.svg"></code>
+  <code><img title="PHP" height="25" src="images/python.svg"></code>
+  <code><img title="PHP" height="25" src="images/power-bi.svg"></code>
+  <code><img title="PHP" height="25" src="images/postman.svg"></code>
+  <code><img title="PHP" height="25" src="images/laravel.svg"></code>
+  <code><img title="PHP" height="25" src="images/laragon.svg"></code>
+  <code><img title="PHP" height="25" src="images/nodejs.svg"></code>
+  <code><img title="PHP" height="25" src="images/linkedin.svg"></code>
+  <code><img title="PHP" height="25" src="images/git.svg"></code>
+  <code><img title="PHP" height="25" src="images/firebase.svg"></code>
+  <code><img title="PHP" height="25" src="images/docker.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="PHP" height="25" src="images/kotlin.svg"></code>
+  <code><img title="PHP" height="25" src="images/java.svg"></code>
+  <code><img title="PHP" height="25" src="images/html5.svg"></code>
+  <code><img title="PHP" height="25" src="images/css3.svg"></code>
+  <code><img title="PHP" height="25" src="images/javascript.svg"></code>
+  <code><img title="PHP" height="25" src="images/c.svg"></code>
+  <code><img title="PHP" height="25" src="images/cplus.svg"></code>
+  <code><img title="PHP" height="25" src="images/csharp.svg"></code>
+  <code><img title="PHP" height="25" src="images/android-studio.svg"></code>
+  <code><img title="PHP" height="25" src="images/trello.svg"></code>
+  <code><img title="PHP" height="25" src="images/canva.svg"></code>
+  <code><img title="PHP" height="25" src="images/blender.svg"></code>
+  <code><img title="PHP" height="25" src="images/mongodb.svg"></code>
 </p>
 <hr>
 
