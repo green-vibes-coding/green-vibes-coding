@@ -23,7 +23,7 @@
 </p>
 
 <hr>
-<h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Tailwind" height="25" src="images/tailwind.svg"></code>
@@ -56,7 +56,7 @@
 </p>
 <hr>
 
-<h4 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -80,7 +80,7 @@
 
 <hr>
 
-<h4 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/green-vibes-coding/Text-Based-Adventure" title="Text Based Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=green-vibes-coding&repo=Text-Based-Adventure&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -91,7 +91,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/green-vibes-coding/Game-Of-Life" title="Game of Life"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=green-vibes-coding&repo=Game-Of-Life&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/green-vibes-coding/Rock-Paper-Scissors" title="Rock Paper Scissors"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=green-vibes-coding&repo=Rock-Paper-Scrissors&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/green-vibes-coding/Rock-Paper-Scissors" title="Rock Paper Scissors"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=green-vibes-coding&repo=Rock-Paper-Scissors&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
