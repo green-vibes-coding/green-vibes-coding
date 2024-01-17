@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
+  <code><a href="https://www.linkedin.com/in/victor-giro-galceran/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
   <code><a href="mailto: uninterestedness@gmail.com" title="Gmail"><img width="22" src="images/gmail.svg"></a></code>
 </h5>
 <br>
